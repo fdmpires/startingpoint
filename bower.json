@@ -1,0 +1,22 @@
+{
+  "name": "startingpoint",
+  "homepage": "https://github.com/fdmpires/startingpoint",
+  "authors": [
+    "Filipe Pires <fdmpires@gmail.com>"
+  ],
+  "description": "Starting point to a php project",
+  "main": "index.php",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public_html/public/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7"
+  }
+}

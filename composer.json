@@ -1,0 +1,17 @@
+{
+    "name": "root/startingpoint",
+    "description": "Starting point to a php project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Filipe Pires",
+            "email": "fdmpires@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/modules/"
+        }
+    }
+}
